@@ -1,4 +1,6 @@
 # Overview
+**Note: This branch has been included to show the necessary code and installations necessary to run the visualizations for this project; I have included the produced image and further results on the master branch. The rest of the ReadMe is from Udacity's original repository, other than the code changed within 'particle_filter.cpp' in the 'src' folder.**
+
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
 #### Submission
