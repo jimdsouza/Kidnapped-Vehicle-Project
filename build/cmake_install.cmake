@@ -1,4 +1,4 @@
-# Install script for directory: /Users/apple/Desktop/Kidnapped-Vehicle-Project
+# Install script for directory: /Users/apple/CarND-Kidnapped-Vehicle-Project-visualizer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/apple/Desktop/Kidnapped-Vehicle-Project/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/apple/CarND-Kidnapped-Vehicle-Project-visualizer/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
